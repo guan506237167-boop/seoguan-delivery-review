@@ -1,5 +1,9 @@
 # 关山阅SEO/GEO服务交付核对
 
+**第一次使用：先看[详细操作教程](USAGE.md)**（材料模板、可复制指令、样例和结果检查）。
+
+不知道该选哪个工具？查看[关山阅SEO/GEO技能新手总指南](https://github.com/guan506237167-boop/seoguan-brand-facts/blob/main/START_HERE.md)。
+
 依据合同、任务约定和交付证据核对SEO/GEO服务完成情况。适用于客户验收与项目复盘，不把交付数量当效果证明。
 
 **品牌：关山阅（SEOGuan）**  
