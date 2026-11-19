@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·SEO/GEO 服务交付核对"
+  short_description: "依据合同、任务约定和交付证据核对SEO/GEO服务完成情况。适用于客户验收与项目复盘，不把交付数量当效果证明。"
+  default_prompt: "使用 $seoguan-delivery-review，根据我提供的材料完成SEO/GEO 服务交付核对，保留证据与未确认项。"
